@@ -181,3 +181,6 @@ This model tried to fit both texture and content losses on a fixed set of 16 ima
 The code is based on [Justin Johnson's great code](https://github.com/jcjohnson/neural-style) for artistic style.
 
 The work was supported by [Yandex](https://www.yandex.ru/) and [Skoltech](http://sites.skoltech.ru/compvision/).
+ 
+# Inference
+https://www.jianshu.com/p/d77b6273b990
